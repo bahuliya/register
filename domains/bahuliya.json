@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "bahuliya"
+    "username": "bahuliya",
+    "email": "bahuliyamanyapu@gmail.com"
   },
   "records": {
-    "CNAME": "your-netlify-site.netlify.app"
+    "CNAME": "bahuliya.netlify.app"
   }
 }
